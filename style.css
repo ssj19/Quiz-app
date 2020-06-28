@@ -192,14 +192,14 @@ body{
 
 .quiz-box .answers-indicator div.correct{
 	/*background-color: green;*/
-	background-image: url("imge/correct.png");
+	background-image: url("correct.png");
 	background-position: center;
 	background-size: 50%;
 	background-repeat: no-repeat;
 }
 .quiz-box .answers-indicator div.wrong{
 	/*background-color: green;*/
-	background-image: url("imge/cancel.png");
+	background-image: url("cancel.png");
 	background-position: center;
 	background-size: 50%;
 	background-repeat: no-repeat;
